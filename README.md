@@ -1,2 +1,2 @@
 # starbucks project
-use HTML/CSS/JS
+HTML/CSS/JS
